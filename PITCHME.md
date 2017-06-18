@@ -36,7 +36,7 @@
 
 ---
 
-思考：如果是 PC First，那么 Media Queries 改怎样写？
+思考：如果是 PC First，那么 Media Queries 该怎样写？
 
 ---
 
@@ -50,7 +50,7 @@
 
 ### 语义化及其意义
 
-主要常用语义化标签有：`header`，`nav`，`main`，`footer`，`form`，`table`，`figure`。常用的语义化标签：`div`，`span`
+主要常用语义化标签有：`header`，`nav`，`main`，`footer`，`form`，`table`，`figure`。常用的非语义化标签：`div`，`span`
 
 ---
 
@@ -89,7 +89,7 @@
 
 * 做好 Logo 的指引首页的链接
 * 写好 Head 里 `title`
-* 网站标题 <h1> 等合理使用
+* 网站标题 `<h1>` 等合理使用
 
 ---
 
